@@ -40,3 +40,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+# notes ----- github's origin is github-origin so remember when pushing
